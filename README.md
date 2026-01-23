@@ -27,7 +27,8 @@ Terraform creates the EC2 instance and the S3 bucket in parallel
 - With depends_on
 Terraform ensures the S3 bucket is fully created before starting the EC2 instance
 
-<img width="1422" height="530" alt="image" src="https://github.com/user-attachments/assets/2c2720e3-4eee-4f4a-aad1-5e200a9d925e" />
+<<img width="1407" height="497" alt="image" src="https://github.com/user-attachments/assets/bf1f7ac4-96aa-4d52-95dd-97917feab9f5" />
+
 
 ## How Terraform Interprets This
 
